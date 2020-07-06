@@ -1,5 +1,25 @@
 # ConductionNL.github.io
 
+###### Over Conduction
+Conduction faciliteert digitale ecostystemen
+
+Wij zijn wat je zou kunnen noemen Digital Socials, wij ontwikkelen techniek waarbij mens en community centraal staan. 
+Graag dragen we dan ook bij het aan het ontwikkelen van digitale oplossingen voor maatschappelijke vraagstukken:
+
+‘Tech to serve people’.
+
+Meer informatie over Conduction is te vinden op [onze website](https://www.conduction.nl/).
+
+###### Over Componenten
+De kracht van de architecturale principes van Common Ground zit hem in kleine microservices verdeeld over vijf lagen. 
+Hierbij is herbruikbaarheid en schaalbaarheid een belangrijk uitgangspunt. Dit leidt ertoe dat er sprake is van een steep dependency curve.
+Kleine applicaties hebben van start af aan een divers ecosysteem aan componenten nodig om te kunnen functioneren, maar het toevoegen van extra applicaties leidt niet tot een sterke toename van componenten.\
+Dit komt doordat elk component wel een eigen doel heeft waarvoor deze gebruikt kan worden. Maar binnen elke applicatie kunnen de meeste componenten weer net anders toegepast worden als dit nodig is voor die specifieke applicatie.
+
+Meer informatie over Componenten is te vinden [hier](https://www.conduction.nl/componenten).
+
+###### Over Geautomatiseerd testen en badges
+tekst hier
 
 |  Component 	| StyleCI: Dev  	|  Github: Dev 	|   StyleCI: Prod	|Github: Prod   	|
 |:---:	|:---:	|:---:	|:---:	|:---:	| 
