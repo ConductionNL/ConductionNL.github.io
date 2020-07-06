@@ -8,7 +8,7 @@ Graag dragen we dan ook bij het aan het ontwikkelen van digitale oplossingen voo
 
 ‘Tech to serve people’.
 
-Meer informatie over Conduction is te vinden op [onze website](https://www.conduction.nl/).
+> Meer informatie over Conduction is te vinden op [onze website](https://www.conduction.nl/).
 
 #### Over Componenten
 De kracht van de architecturale principes van Common Ground zit hem in kleine microservices verdeeld over vijf lagen.
@@ -18,10 +18,15 @@ maar het toevoegen van extra applicaties leidt niet tot een sterke toename van c
 Dit komt doordat elk component wel een eigen doel heeft waarvoor deze gebruikt kan worden.
 Maar binnen elke applicatie kunnen de meeste componenten weer net anders toegepast worden als dit nodig is voor die specifieke applicatie.
 
-Meer informatie over Componenten is te vinden [hier](https://www.conduction.nl/componenten).
+> Meer informatie over Componenten is te vinden [hier](https://www.conduction.nl/componenten).
 
 #### Over Geautomatiseerd testen en badges
-tekst hier
+Voor het testen van onze componenten hebben wij gebruik gemaakt van een aantal geautomatiseerde tests:\
+* StyleCI om de php code te testen aan de hand van algemene php standaarden.
+* Github (Actions) om te testen of onder andere de Docker images wel goed gebuild worden en aan een aantal security checks voldaan word.
+* API-Test om te testen of de API functioneerd naar behoren door middel van API calls op het component.
+
+Hier onder is te zien voor de production en development omgeving of elk component door deze testen heen komt.
 
 ### Production
 
