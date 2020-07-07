@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2f3bad3-d6a8-4129-9798-e1165e6c4041" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +11,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,11 +50,12 @@
       <workItem from="1591768857619" duration="186000" />
       <workItem from="1591773931879" duration="2991000" />
       <workItem from="1593760648508" duration="297000" />
+      <workItem from="1594031319213" duration="9107000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="755" y="319" key="FileChooserDialogImpl" timestamp="1591704329751">
@@ -62,5 +66,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="535" y="207" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1591696271433" />
+    <state x="1383" y="315" key="search.everywhere.popup" timestamp="1594042757575">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1383" y="315" key="search.everywhere.popup/3440.545.1600.860/0.0.3440.1400@0.0.3440.1400" timestamp="1594042757575" />
   </component>
 </project>
