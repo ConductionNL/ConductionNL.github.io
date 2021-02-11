@@ -1,4 +1,4 @@
-# Welkom op onze github TESTTESTESTS
+# Welkom op onze github
 
 ## Over Conduction
 Conduction faciliteert digitale ecostystemen
@@ -19,47 +19,6 @@ Dit komt doordat elk component wel een eigen doel heeft waarvoor deze gebruikt k
 Maar binnen elke applicatie kunnen de meeste componenten weer net anders toegepast worden als dit nodig is voor die specifieke applicatie.
 
 > Meer informatie over de conduction Componenten is [hier](https://www.conduction.nl/componenten) te vinden.
-
-## Componenten
-|  Component 	|  Common Ground laag 	| Eigenaar | Beheersovereenkomst | Gebruikt bij  |
-| :---:	| :---:	| :---:	| :---:	| :---:	|
-|   [Adres Service](https://github.com/ConductionNL/adresservice) |  2	| ['s-Hertogenbosch](https://www.s-hertogenbosch.nl) | Nee | Verhuizen en Begraven 
-|   [Agenda Service](https://github.com/ConductionNL/agendaservice)	|  2	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen en Begraven 
-|   [Bericht Service](https://github.com/ConductionNL/berichtservice)	| 2	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen en Begraven 
-|   [Betaal Service](https://github.com/ConductionNL/betaalservice)	|  2	| [Utrecht](https://www.utrecht.nl) | Nee] | Trouwen en Begraven 
-|   [BRP Service](https://github.com/ConductionNL/brpservice)|  1	| [Utrecht](https://www.utrecht.nl) | Nee | Verhuizen 
-|   [Challenge Component](https://github.com/ConductionNL/Challenge-component)|  1	| [Conduction](https://www.conduction.nl) | N.v.t. | Stage platform 
-|   [Checkin Component](https://github.com/ConductionNL/checkin-component) | 2	| [Conduction](https://www.conduction.nl) | N.v.t. | Checkin 
-|   [Checkin Service](https://github.com/ConductionNL/checkinservice) | 2	| [Conduction](https://www.conduction.nl) | N.v.t. | Checkin 
-|   [Contact Catalogus](https://github.com/ConductionNL/contactcatalogus)| 1	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen,Begraven en Verhuizen 
-|   [Contact Moment Component](https://github.com/ConductionNL/ContactMoment-Component)	| 1	| [Utrecht](https://www.utrecht.nl) | Nee | N.v.t. 
-|   [Commonground Dashboard](https://github.com/ConductionNL/commonground-dashboard)| 5	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen, Begraven en Verhuizen 
-|   [Digispoof](https://github.com/ConductionNL/digispoof-interface) | 5 | [Utrecht](https://www.utrecht.nl) | Nee | Trouwen, Begraven en Verhuizen 
-|   [Doc parser](https://github.com/ConductionNL/docparser)	| 2	| [Utrecht](https://www.utrecht.nl) | Nee | N.v.t. 
-|   [Education Component](https://github.com/ConductionNL/education-component) | -	| [Conduction](https://www.conduction.nl) | N.v.t. | Stage platform
-|   [Environment Component](https://github.com/ConductionNL/environment-component)	|  -	| [Conduction](https://www.conduction.nl) | N.v.t. | commonground.nu 
-|   [Export Component](https://github.com/ConductionNL/export-component)| 2	|  ['s-Hertogenbosch](https://www.s-hertogenbosch.nl) | Nee | Verhuizen 
-|   [Instemming Service](https://github.com/ConductionNL/instemmingservice)| 2	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen en Begraven 
-|   [Issue Component](https://github.com/ConductionNL/issue-component)| 1	|  [Conduction](https://www.conduction.nl) | N.v.t. | N.v.t. 
-|   [Landelijke Tabellen Catalogus](https://github.com/ConductionNL/landelijketabellencatalogus)|  2	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen, Begraven en Verhuizen 
-|   [Locatie Catalogus](https://github.com/ConductionNL/locatiecatalogus)	| 1	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen, Begraven, Verhuizen, Taalhuizen, Checking en Stage Platform 
-|   [Medewerker Catalogus](https://github.com/ConductionNL/medewerkercatalogus)	| 1	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen, Taalhuizen en Stage Platform 
-|   [Memo Component](https://github.com/ConductionNL/memo-component)	| 1	|  [Utrecht](https://www.utrecht.nl) | Nee | Trouwen en Begraven 
-|   [Order Registratie Component](https://github.com/ConductionNL/orderregistratiecomponent) | 2	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen en Begraven 
-|   [Portfolio Component](https://github.com/ConductionNL/portfolio-component)	| 1	| [Conduction](https://www.conduction.nl) | N.v.t. | Stage Platform 
-|   [Proces Type Catalogus](https://github.com/ConductionNL/procestypecatalogus)	|  -	|  ['s-Hertogenbosch](https://www.s-hertogenbosch.nl)  | Ja | Trouwen, Begraven, Verhuizen, Taalhuizen, Checking, Stage Platform en Chatbot 
-|   [Producten Diensten Catalogus](https://github.com/ConductionNL/productenendienstencatalogus)| 1	| [Utrecht](https://www.utrecht.nl) | Nee | Begraven 
-|   [Proto Application NL Design](https://github.com/ConductionNL/Proto-application-NLDesign)| 5	| [Conduction](https://www.conduction.nl) | N.v.t. | N.v.t. 
-|   [Proto Component Commonground](https://github.com/ConductionNL/Proto-component-commonground) | 0	| [Conduction](https://www.conduction.nl) | N.v.t. | N.v.t. 
-|   [Queue Component](https://github.com/ConductionNL/Queue-Component)	| 2	| [Westfriesland](https://www.regiowestfriesland.nl) | Nee | Begraven 
-| [Review Component](https://github.com/ConductionNL/review-component)| 1	| [Conduction](https://www.conduction.nl) | N.v.t. | Stage Platform 
-|   [StuF Component](https://github.com/ConductionNL/stufservice)	| 3 |	 [Utrecht](https://www.utrecht.nl) | Nee | N.v.t. 
-|   [Taken Component](https://github.com/ConductionNL/taken-component) | 1 | [Utrecht](https://www.utrecht.nl) | Nee | Begraven 
-|   [Trouw Service](https://github.com/ConductionNL/trouw-service) | 2	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen 
-|   [User Component](https://github.com/ConductionNL/user-component)	|  1	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen, Begraven, Verhuizen, Taalhuizen, Checking, Stage Platform en Chatbot
-|   [Verzoek Registratie Component](https://github.com/ConductionNL/verzoekregistratiecomponent)	|  1	|  ['s-Hertogenbosch](https://www.s-hertogenbosch.nl)  | Ja | Trouwen, Begraven, Verhuizen, Taalhuizen, Checking, Stage Platform en Chatbot
-|   [Verzoek type catalogus](https://github.com/ConductionNL/verzoektypecatalogus)	| 1	|  ['s-Hertogenbosch](https://www.s-hertogenbosch.nl)  | Ja | Trouwen, Begraven, Verhuizen, Taalhuizen, Checking, Stage Platform en Chatbot 
-| [Web Resource Catalogus](https://github.com/ConductionNL/webresourcecatalogus) | 1	| [Utrecht](https://www.utrecht.nl) | Nee | Trouwen, Begraven, Verhuizen, Taalhuizen, Checking en Stage Platform 
 
 ## Over Geautomatiseerd testen en badges
 Voor het testen van onze componenten hebben wij gebruik gemaakt van een aantal geautomatiseerde tests:
